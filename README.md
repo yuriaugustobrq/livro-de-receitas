@@ -3,4 +3,7 @@
 ### Strogonoff de frango.
 ### Arroz e feijão.
 ### Batata frita.
-### Camarão.
+### Camarão grelhado.
+### Lula dorê.
+### Salmão grelhado.
+### Sushi de salmão.
